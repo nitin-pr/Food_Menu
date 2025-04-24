@@ -1,0 +1,17 @@
+Dish Name,Cuisine,Meal Type,Comfort Food,Masala Food,Dessert,Spice Level,Cooking Time,Mood-Based,Weather-Based,Dietary,Occasion,Region
+Dal Chawal,Pan Indian,Lunch,True,False,False,Mild,Quick,Light Mood,All Weather,Veg,Daily Meal,All Regions
+Moong Dal Khichdi,Pan Indian,Dinner,True,False,False,Mild,Quick,Sick/Recovery,Rainy/Winter,Veg,Light Meal,All Regions
+Aloo Matar,North Indian,Lunch,True,True,False,Medium,Moderate,Everyday Curry,All Weather,Veg,Daily Meal,North Indian
+Lauki Sabzi,North Indian,Lunch,True,False,False,Mild,Quick,Light Meal,Summer,Veg,Daily Meal,North Indian
+Bhindi Fry,North Indian,Lunch,True,False,False,Mild,Quick,Healthy Choice,Summer,Veg,Daily Meal,North Indian
+Tinda Sabzi,North Indian,Lunch,True,False,False,Mild,Quick,Daily Food,Summer,Veg,Daily Meal,North Indian
+Kadhi Pakora,North Indian,Lunch,True,True,False,Mild,Moderate,Rainy Day,Rainy/Cold,Veg,Family Meal,Punjabi
+Matar Paneer,North Indian,Lunch,True,True,False,Medium,Moderate,Regular Special,All Weather,Veg,Daily Meal,Punjabi
+Cabbage Stir Fry,South/North,Lunch,True,False,False,Mild,Quick,Light Meal,Summer,Veg,Daily Meal,Pan India
+Jeera Aloo,North Indian,Lunch,True,True,False,Mild,Quick,Lazy Day Food,All Weather,Veg,Daily Meal,North Indian
+Tamatar Sabzi,North Indian,Breakfast,True,False,False,Mild,Quick,Light Curry,Summer,Veg,Daily Meal,North Indian
+Thepla,Gujarati,Breakfast,True,False,False,Mild,Quick,Travel Food,All Weather,Veg,Daily Meal,Gujarati
+Curd Rice,South Indian,Lunch,True,False,False,Mild,Quick,Cool Comfort,Summer,Veg,Light Meal,South Indian
+Lemon Rice,South Indian,Lunch,True,False,False,Mild,Quick,Quick Craving,Summer,Veg,Daily Meal,South Indian
+Aloo Tamatar Curry,North Indian,Lunch,True,True,False,Medium,Quick,Quick Curry,All Weather,Veg,Daily Meal,North Indian
+Samosa,Pan Indian,Breakfast,False,True,False,Mild,Moderate,Quick Craving,All Weather,Veg,Light Meal,Pan India
